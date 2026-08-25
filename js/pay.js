@@ -4,7 +4,7 @@
  */
 export const PAY = {
   itchUrl: 'https://zsy2026.itch.io/neo-drift',
-  afdianUrl: 'https://afdian.com/a/zsy2026',
+  afdianUrl: 'https://afdian.com/item/9a3adaf2a06011f1848d52540025c377',
   /** 试玩可用赛道 */
   freeTracks: ['cosmos', 'sky'],
   /** 试玩可用前 N 辆车 */
